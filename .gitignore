@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Ignore my_notebook.ipynb
+my_notebook.ipynb
